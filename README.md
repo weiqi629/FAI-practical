@@ -6,8 +6,8 @@
 
 ### Setup (One-time)
 ```bash
-git config --global user.name "kkk"
-git config --global user.email "your.email@example.com"
+git config --global user.name "weiqi"
+git config --global user.email "tangwq-wm24@student.tarc.edu.my"
 ```
 
 ### Getting Started Steps
