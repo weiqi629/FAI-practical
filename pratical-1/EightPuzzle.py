@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+Jing Shien says hi
+
 Best-first search and A* Search
 
 This code is modified from the following source:
